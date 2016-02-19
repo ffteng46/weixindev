@@ -22,6 +22,6 @@ public class TokenTest {
     String appsecret="5eab4db4b6919eb3af7e9016530f4fda";
     Token token = CommonUtil.getToken(appid, appsecret);
     //输出返回结果
-    System.out.println(token.getAccessToken()+";expire=" + token.getExpiresIn());
+    System.out.println(token.getAccessToken()+";\r\nexpire=" + token.getExpiresIn());
   }
 }

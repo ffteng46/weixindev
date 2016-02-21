@@ -1,4 +1,7 @@
 package com.mets.weixin.pojo;
+
+import com.mets.weixin.util.CommonUtil;
+
 /**
 * 类名: Token </br>
 * 描述: 凭证 </br>
@@ -23,11 +26,4 @@ public class Token {
   public void setExpiresIn(int expiresIn) {
     this.expiresIn = expiresIn;
   }
-  /**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 }

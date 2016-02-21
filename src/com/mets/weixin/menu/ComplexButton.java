@@ -1,12 +1,12 @@
-package com.mets.weinxin.menu;
+package com.mets.weixin.menu;
 
 /**
-* ÀàÃû: ComplexButton </br>
-* °üÃû£ºcom.mets.weinxin.menu
-* ÃèÊö: ¸¸²Ëµ¥Ïî :°üº¬ÓĞ¶ş¼¶²Ëµ¥ÏîµÄÒ»¼¶²Ëµ¥¡£ÕâÀà²Ëµ¥Ïî°üº¬ÓĞ¶ş¸öÊôĞÔ£ºnameºÍsub_button£¬¶øsub_buttonÒÔÊÇÒ»¸ö×Ó²Ëµ¥ÏîÊı×é </br>
-* ¿ª·¢ÈËÔ±£º tff  </br>
-* ´´½¨Ê±¼ä£º  2016-2-19 </br>
-* ·¢²¼°æ±¾£ºV1.0  </br>
+* ç±»å: ComplexButton </br>
+* åŒ…åï¼šcom.mets.weinxin.menu
+* æè¿°: çˆ¶èœå•é¡¹ :åŒ…å«æœ‰äºŒçº§èœå•é¡¹çš„ä¸€çº§èœå•ã€‚è¿™ç±»èœå•é¡¹åŒ…å«æœ‰äºŒä¸ªå±æ€§ï¼šnameå’Œsub_buttonï¼Œè€Œsub_buttonä»¥æ˜¯ä¸€ä¸ªå­èœå•é¡¹æ•°ç»„ </br>
+* å¼€å‘äººå‘˜ï¼š tff  </br>
+* åˆ›å»ºæ—¶é—´ï¼š  2016-2-19 </br>
+* å‘å¸ƒç‰ˆæœ¬ï¼šV1.0  </br>
  */
 public class ComplexButton extends Button {
     private Button[] sub_button;

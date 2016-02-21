@@ -1,11 +1,11 @@
-package com.mets.weinxin.menu;
+package com.mets.weixin.menu;
 /**
-* ÀàÃû: Menu </br>
-* °üÃû£º com.souvc.weixin.menu
-* ÃèÊö: Õû¸ö²Ëµ¥¶ÔÏóµÄ·â×° </br>
-* ¿ª·¢ÈËÔ±£ºtff </br>
-* ´´½¨Ê±¼ä£º  2016-2-19 </br>
-* ·¢²¼°æ±¾£ºV1.0  </br>
+* ç±»å: Menu </br>
+* åŒ…åï¼š com.souvc.weixin.menu
+* æè¿°: æ•´ä¸ªèœå•å¯¹è±¡çš„å°è£… </br>
+* å¼€å‘äººå‘˜ï¼štff </br>
+* åˆ›å»ºæ—¶é—´ï¼š  2016-2-19 </br>
+* å‘å¸ƒç‰ˆæœ¬ï¼šV1.0  </br>
  */
 public class Menu {
     private Button[] button;

@@ -1,16 +1,16 @@
 package com.mets.weixin.pojo;
 /**
-* ÀàÃû: AccessToken </br>
-* °üÃû£º com.tff.weixin.pojo
-* ÃèÊö: Î¢ĞÅÍ¨ÓÃ½Ó¿ÚÆ¾Ö¤  </br>
-* ¿ª·¢ÈËÔ±£ºtff </br>
-* ´´½¨Ê±¼ä£º  2016-2-19 </br>
-* ·¢²¼°æ±¾£ºV1.0  </br>
+* ç±»å: AccessToken </br>
+* åŒ…åï¼š com.tff.weixin.pojo
+* æè¿°: å¾®ä¿¡é€šç”¨æ¥å£å‡­è¯  </br>
+* å¼€å‘äººå‘˜ï¼štff </br>
+* åˆ›å»ºæ—¶é—´ï¼š  2016-2-19 </br>
+* å‘å¸ƒç‰ˆæœ¬ï¼šV1.0  </br>
  */
 public class AccessToken {
-    // »ñÈ¡µ½µÄÆ¾Ö¤
+    // è·å–åˆ°çš„å‡­è¯
     private String token;
-    // Æ¾Ö¤ÓĞĞ§Ê±¼ä£¬µ¥Î»£ºÃë
+    // å‡­è¯æœ‰æ•ˆæ—¶é—´ï¼Œå•ä½ï¼šç§’
     private int expiresIn;
 
     public String getToken() {

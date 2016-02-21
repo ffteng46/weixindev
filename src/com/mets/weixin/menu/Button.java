@@ -1,15 +1,15 @@
-package com.mets.weinxin.menu;
+package com.mets.weixin.menu;
 /**
-* ÀàÃû: Button </br>
-* °üÃû£º com.mets.weinxin.menu
-* ÃèÊö: ²Ëµ¥ÏîµÄ»ùÀà  </br>
-* ¿ª·¢ÈËÔ±£º tff  </br>
-* ´´½¨Ê±¼ä£º  2016-2-19 </br>
-* ·¢²¼°æ±¾£ºV1.0  </br>
+* ç±»å: Button </br>
+* åŒ…åï¼š com.mets.weinxin.menu
+* æè¿°: èœå•é¡¹çš„åŸºç±»  </br>
+* å¼€å‘äººå‘˜ï¼š tff  </br>
+* åˆ›å»ºæ—¶é—´ï¼š  2016-2-19 </br>
+* å‘å¸ƒç‰ˆæœ¬ï¼šV1.0  </br>
  */
 public class Button {
     
-    private String name;//ËùÓĞÒ»¼¶²Ëµ¥¡¢¶ş¼¶²Ëµ¥¶¼¹²ÓĞÒ»¸öÏàÍ¬µÄÊôĞÔ£¬ÄÇ¾ÍÊÇname
+    private String name;//æ‰€æœ‰ä¸€çº§èœå•ã€äºŒçº§èœå•éƒ½å…±æœ‰ä¸€ä¸ªç›¸åŒçš„å±æ€§ï¼Œé‚£å°±æ˜¯name
 
     public String getName() {
         return name;
